@@ -1,3 +1,3 @@
-#ニュースSaru
+# ニュースSaru
 
-A News App
+ A News App
